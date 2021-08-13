@@ -1,0 +1,65 @@
+body {
+    background-color: lightblue;
+}
+.bgCase {
+    background-color: lightgrey;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 250px;
+    padding: 10px;
+    margin-top: 10%;
+}
+.titleCase h1{
+    font-weight: bold;
+    font-size: 35px;
+}
+.bill {
+    margin-left: 10px;
+}
+.bill p {
+    font-size: 25px;
+}
+.bill input {
+    border: none;
+    position: relative;
+    top: -10px;
+    left: 10px;
+}
+.services {
+    margin-left: 10px;
+}
+.services p {
+    font-size: 25px;
+}
+.services select {
+    border: none;
+    position: relative;
+    top: -10px;
+    left: 10px;
+    width: 179px;
+}
+.persons {
+    margin-left: 10px;
+}
+.persons p {
+    font-size: 25px;
+}
+.persons input {
+    border: none;
+    position: relative;
+    top: -10px;
+    left: 10px;
+}
+.submitButt button {
+    border: none;
+    padding: 0px 15px 0px 15px;
+    margin: 20px 0px 0px 115px;
+}
+.errorMess {
+    color: red;
+    display: none;
+}
+.totalTip {
+    font-weight: bold;
+    display: none;
+}
